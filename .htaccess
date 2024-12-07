@@ -1,0 +1,9 @@
+# Turn the Rewrite Engine ON
+RewriteEngine On
+
+# Allow requests for folders and file names
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCOND %{REQUEST_FILENAME} !-d
+
+# Send the URL as a parameter to Index.php
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
