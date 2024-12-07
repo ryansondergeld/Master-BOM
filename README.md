@@ -25,3 +25,5 @@ https://github.com/user-attachments/assets/1b38951e-4d85-45a9-be2d-ce4672c160d5
 https://github.com/user-attachments/assets/5207e322-801d-4de8-9c6a-2745d53b4da5
 
 ### CRUD on Parts Table
+https://github.com/user-attachments/assets/d80df1c5-e3da-41a3-8691-ec5b79e0fece
+
